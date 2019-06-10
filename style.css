@@ -1,0 +1,207 @@
+/*
+* @Author: chaixiaoyi
+* @Date:   2019-06-03 19:32:34
+* @Last Modified by:   chaixiaoyi
+* @Last Modified time: 2019-06-05 20:03:41
+*/
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li,ol{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+}
+.header-wrap{
+    height: 29px;
+    background-color:#f4f4f4;
+}
+.nav{
+    width: 1129px;
+    height: 29px;
+    background-color:#f4f4f4;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.header{
+    float: left;
+    font-size: 13px;
+    padding-top: 7px;
+}
+.head a{
+    color: black;
+}
+.head{
+    float: right;
+    font-size: 13px;
+    padding-top: 7px;
+}
+.ban{
+    width: 1129px;
+    height: 160px;
+    background-color:#ffffff;
+    margin: 0 auto;
+}
+.ban img{
+    float: left;
+    padding-top: 20px;
+}
+.apple {
+    background: #f5f5f5 url(imgs/购物车.png) no-repeat 12px;
+    width: 150px;
+    height: 45px;
+    margin: 20px 10px 0 0;
+    float: right;
+    border: 1px solid white;
+    text-align: center;
+}
+.apple a{
+    margin-top: 10px;
+    display: block;
+}
+.bbh{
+    color: black;
+    float: right;
+    margin-right: 15px;
+}
+.zero{
+    color: red;
+}
+.se {
+    float: left;
+    background-color:white;
+    margin:20px 0 0 160px;
+    border: 2px solid red;
+}
+.se form input:first-child{
+    width: 380px;
+    height: 40px;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    padding-left: 18px;
+    padding-bottom: 1px;
+}
+.se form input:last-child{
+    width: 90px;
+    height: 47px;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    margin-left: -8px;
+    margin-bottom: 0px;
+}
+.four{
+    padding-left: 420px;
+    padding-bottom:10px;
+}
+.four p a{
+    color: black;
+    margin-right: 40px;
+}
+.four p a:hover{
+    background: red;
+    color: white;
+}
+.line{
+    background-color: #e00304;
+    height: 2px;
+}
+.big{
+    background-color: #fbfbfb;
+    height: 560px;
+    width: 1129px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.little1{
+    background-color: #ffffff;
+}
+.little1 p{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 13px;
+}
+.little1 p a{
+    color: black;
+}
+.little2{
+
+}
+.big2{
+    width:900px;
+    margin:0 auto;
+    height:528px;
+    float:right;
+}
+.right{
+    width:900px;
+    height:528px;
+    float:right;
+    background-color: #ffffff;
+}
+.right li{
+    width:200px;
+    height:240px;
+    border:1px solid #dbdbdb;
+    float:left;
+    margin-left:15px;
+    margin-bottom:20px;
+    text-align:center;
+    position:relative;
+}
+.xx{
+    padding-left: 36px;
+}
+.yy{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: red;
+}
+.zz{
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.mm{
+    background-color:#2e2e2e;
+    height: 151px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.last>li{
+    padding-left: 400px;
+    font-size: 16px;
+    display: inline-block;
+    width: 98px;
+    height: 30px;
+    text-align: center;
+    line-height: 35px;
+    vertical-align: top;
+    margin-right:-270px;
+}
+.last li a{
+    color: white;
+}
+.nn{
+    background-color:#2e2e2e;
+    height: 115px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.nn p{
+    color: white;
+    text-align: center;
+    line-height: 10px;
+    padding-top: 30px;
+    font-size: 15px;
+
+}
+.line2{
+    background-color: #454545;
+    height: 2px;
+}
+
+
